@@ -1,8 +1,9 @@
+# Most Competitions by WCA ID Year
 
 ## 2003
 
 | personId   | personName                         | numComps |
-+------------+------------------------------------+----------+
+|------------|------------------------------------|----------|
 | 2003BRUC01 | Ron van Bruchem                    |      160 |
 | 2003DENN01 | Ton Dennenbroek                    |      156 |
 | 2003BURT01 | Bob Burton                         |      136 |
@@ -95,7 +96,7 @@
 ## 2004
 
 | personId   | personName                                           | numComps |
-+------------+------------------------------------------------------+----------+
+|------------|------------------------------------------------------|----------|
 | 2004CHAN04 | Shelley Chang                                        |      129 |
 | 2004GALL02 | Clément Gallet                                       |      115 |
 | 2004MASA01 | Jesús Masanet García                                 |       95 |
@@ -153,8 +154,8 @@
 | 2004LIAO01 | Joseph Liao                                          |        5 |
 | 2004KWAK01 | Eric Kwak                                            |        5 |
 | 2004ANTO01 | José Antonio Domínguez Miguel                        |        4 |
-| 2004ALLA01 | Kyle Allaire                                         |        4 |
 | 2004LINP01 | Paul Lin                                             |        4 |
+| 2004ALLA01 | Kyle Allaire                                         |        4 |
 | 2004NIEM01 | Daniel Niemann                                       |        4 |
 | 2004BAYE01 | Stefan Bayens                                        |        4 |
 | 2004JOEC01 | Chris Joe                                            |        4 |
@@ -193,14 +194,14 @@
 | 2004GARD01 | Marcel van Garderen                                  |        2 |
 | 2004HAWL01 | Clayne Hawley                                        |        2 |
 | 2004SANC01 | Julien Sanchez                                       |        2 |
+| 2004LIOU01 | Eric Liou                                            |        2 |
 | 2004VAND03 | Pierre Vandendriessche                               |        2 |
 | 2004GUST01 | Nils Gustafsson                                      |        2 |
-| 2004LIOU01 | Eric Liou                                            |        2 |
 
 ## 2005
 
 | personId   | personName                        | numComps |
-+------------+-----------------------------------+----------+
+|------------|-----------------------------------|----------|
 | 2005REYN01 | Tim Reynolds                      |      144 |
 | 2005AKKE01 | Erik Akkersdijk                   |      128 |
 | 2005FLEI01 | Jeremy Fleischman                 |      122 |
@@ -305,7 +306,7 @@
 ## 2006
 
 | personId   | personName                        | numComps |
-+------------+-----------------------------------+----------+
+|------------|-----------------------------------|----------|
 | 2006ARAK01 | Sinpei Araki (荒木慎平)           |      147 |
 | 2006GALE01 | Arnaud van Galen                  |      135 |
 | 2006CORR01 | Devin Corr-Robinett               |      122 |
@@ -410,7 +411,7 @@
 ## 2007
 
 | personId   | personName                         | numComps |
-+------------+------------------------------------+----------+
+|------------|------------------------------------|----------|
 | 2007OEYM01 | Maria Oey                          |      143 |
 | 2007PERG01 | Olivér Perge                       |      123 |
 | 2007HESS01 | Rowe Hessler                       |      114 |
@@ -474,8 +475,8 @@
 | 2007JAME01 | Patrick Jameson                    |       34 |
 | 2007BARR02 | Kyle Barry                         |       33 |
 | 2007AGUA01 | Alejandro Aguado Barahona          |       32 |
-| 2007MOSE02 | Jack Moseley                       |       32 |
 | 2007DOUT01 | Peter Douthwright                  |       32 |
+| 2007MOSE02 | Jack Moseley                       |       32 |
 | 2007KARS01 | Harris Karsch                      |       32 |
 | 2007GAMB01 | Jai Gambhir                        |       32 |
 | 2007SINT01 | Benjamin Sintes                    |       31 |
@@ -502,8 +503,8 @@
 | 2007GRAB01 | Klaudia Grabowska                  |       25 |
 | 2007LOGA01 | Bryan Logan                        |       25 |
 | 2007TIIN01 | Teemu Tiinanen                     |       24 |
-| 2007FIDE01 | Willian Fidêncio                   |       24 |
 | 2007LUTH01 | Mats Luthman                       |       24 |
+| 2007FIDE01 | Willian Fidêncio                   |       24 |
 | 2007LAYH01 | Michael Layher                     |       24 |
 | 2007JOHN02 | Erik Johnson                       |       24 |
 | 2007LOPE01 | Manuel López Sheriff               |       24 |
@@ -515,7 +516,7 @@
 ## 2008
 
 | personId   | personName                                                          | numComps |
-+------------+---------------------------------------------------------------------+----------+
+|------------|---------------------------------------------------------------------|----------|
 | 2008COUR01 | François Courtès                                                    |      184 |
 | 2008AURO01 | Sébastien Auroux                                                    |      178 |
 | 2008BARA01 | Bence Barát                                                         |      137 |
@@ -532,8 +533,8 @@
 | 2008NIIN01 | Hideki Niina (新名秀樹)                                             |       92 |
 | 2008PLAC01 | Niki Placskó                                                        |       85 |
 | 2008PIAU01 | Antoine Piau                                                        |       84 |
-| 2008LINE02 | Edward Lin                                                          |       81 |
 | 2008BRAN01 | Filippo Brancaleoni                                                 |       81 |
+| 2008LINE02 | Edward Lin                                                          |       81 |
 | 2008ANDE02 | Oscar Roth Andersen                                                 |       80 |
 | 2008MORE02 | Hippolyte Moreau                                                    |       76 |
 | 2008WIAC01 | Karolina Wiącek                                                     |       76 |
@@ -620,7 +621,7 @@
 ## 2009
 
 | personId   | personName                                             | numComps |
-+------------+--------------------------------------------------------+----------+
+|------------|--------------------------------------------------------|----------|
 | 2009ZHEN11 | Ming Zheng (郑鸣)                                      |      192 |
 | 2009OHRN01 | Laura Ohrndorf                                         |      116 |
 | 2009HILD01 | James Hildreth                                         |      115 |
@@ -672,13 +673,13 @@
 | 2009ORTI01 | Daniel Gracia Ortiz                                    |       44 |
 | 2009CHEN35 | Weifeng Cheng (程维锋)                                 |       43 |
 | 2009RYAB01 | Sergey Ryabko                                          |       42 |
-| 2009JUNW01 | Wang Junwen (王俊文)                                   |       42 |
 | 2009ADAM01 | David Adams                                            |       42 |
+| 2009JUNW01 | Wang Junwen (王俊文)                                   |       42 |
 | 2009GORY01 | Anton Goryachikh                                       |       42 |
 | 2009YERU01 | Ruzhen Ye (叶儒臻)                                     |       41 |
 | 2009JORG02 | Ronan Felipe Jorge                                     |       41 |
-| 2009LIAN03 | Chester Lian                                           |       41 |
 | 2009BRUS01 | Berit Brüster                                          |       41 |
+| 2009LIAN03 | Chester Lian                                           |       41 |
 | 2009TORO03 | Ágoston Török                                          |       41 |
 | 2009SATR01 | Ardianto Satriawan                                     |       41 |
 | 2009ZBIE01 | Heike Zbierski                                         |       40 |
@@ -702,9 +703,9 @@
 | 2009SEVE01 | Frank Severinsen                                       |       33 |
 | 2009BAKK01 | Ivo Bakker                                             |       33 |
 | 2009FANH01 | Haowei Fan (樊浩玮)                                    |       32 |
-| 2009OSTA01 | Roman Ostapenko (Роман Остапенко)                      |       32 |
 | 2009SPRI01 | Alexander Springhorn                                   |       32 |
 | 2009BLAI01 | AJ Blair                                               |       32 |
+| 2009OSTA01 | Roman Ostapenko (Роман Остапенко)                      |       32 |
 | 2009ZHAO05 | Xu Zhao (赵旭)                                         |       32 |
 | 2009JOHN05 | Jack Johnston                                          |       32 |
 | 2009IOVA01 | Massimiliano Iovane                                    |       32 |
@@ -725,7 +726,7 @@
 ## 2010
 
 | personId   | personName                        | numComps |
-+------------+-----------------------------------+----------+
+|------------|-----------------------------------|----------|
 | 2010BENT01 | Jan Bentlage                      |      145 |
 | 2010GRAC02 | Fabio Bini Graciose               |      144 |
 | 2010ZHAO19 | Eric Zhao                         |      102 |
@@ -790,8 +791,8 @@
 | 2010DAVI06 | Julian David                      |       42 |
 | 2010KRYU01 | Dmitry Kryuzban                   |       42 |
 | 2010WHIT05 | Zachary White                     |       41 |
-| 2010WANG68 | Bill Wang                         |       41 |
 | 2010ARBO01 | Morten Arborg                     |       41 |
+| 2010WANG68 | Bill Wang                         |       41 |
 | 2010PROT01 | Kirt Protacio                     |       41 |
 | 2010WANG54 | Tianxing Wang (王天行)            |       41 |
 | 2010SABA01 | Sergi Sabat                       |       41 |
@@ -819,8 +820,8 @@
 | 2010KIKO01 | Jacky Koo Chun Ki (顧俊祺)        |       34 |
 | 2010AGUI04 | Pablo Aguilar Dominguez           |       34 |
 | 2010BAYL01 | Nat Baylon                        |       33 |
-| 2010STEV02 | Robbie Stevenson                  |       33 |
 | 2010FUGU01 | Guanda Fu (符冠达)                |       33 |
+| 2010STEV02 | Robbie Stevenson                  |       33 |
 | 2010TINJ01 | Janelle Tin                       |       32 |
 | 2010ADHI01 | Stephen Adhisaputra               |       32 |
 | 2010DONA01 | James Donahue                     |       32 |
@@ -830,7 +831,7 @@
 ## 2011
 
 | personId   | personName                                   | numComps |
-+------------+----------------------------------------------+----------+
+|------------|----------------------------------------------|----------|
 | 2011SZAT01 | Wojciech Szatanowski                         |      131 |
 | 2011SAKO01 | Corey Sakowski                               |      124 |
 | 2011WELC01 | Walker Welch                                 |       97 |
@@ -867,11 +868,11 @@
 | 2011FREI01 | Felipe Baldívio Freires                      |       51 |
 | 2011GROG02 | Shane Grogan                                 |       50 |
 | 2011CHAP01 | José Leonardo Chaparro Prieto                |       50 |
-| 2011NATH02 | Andrew Nathenson                             |       50 |
 | 2011KOWA01 | Marcin Kowalczyk                             |       50 |
+| 2011NATH02 | Andrew Nathenson                             |       50 |
 | 2011ETTE01 | Lucas Etter                                  |       48 |
-| 2011MAAS01 | Alex Maass                                   |       48 |
 | 2011RECH01 | Nick Rech                                    |       48 |
+| 2011MAAS01 | Alex Maass                                   |       48 |
 | 2011CICH01 | Mateusz Cichoracki                           |       48 |
 | 2011GREE03 | Adam Greenwood                               |       47 |
 | 2011MIEN01 | Kamil Mieńko                                 |       47 |
@@ -909,8 +910,8 @@
 | 2011ENCK01 | Dennis van Enckevort                         |       37 |
 | 2011KANG05 | Chen Kang (亢晨)                             |       37 |
 | 2011BEAT01 | Raúl Low Beattie                             |       37 |
-| 2011LUDW01 | Timo Ludwig                                  |       36 |
 | 2011DUAR02 | Wilson José Duarte Espitia                   |       36 |
+| 2011LUDW01 | Timo Ludwig                                  |       36 |
 | 2011SOBR01 | Alrimar Dias Rocha Sobrinho                  |       36 |
 | 2011PIHE01 | Raphaël Pihet                                |       36 |
 | 2011MILA02 | João Gabriel de Aguiar Milani                |       35 |
@@ -935,7 +936,7 @@
 ## 2012
 
 | personId   | personName                                         | numComps |
-+------------+----------------------------------------------------+----------+
+|------------|----------------------------------------------------|----------|
 | 2012TERE01 | Ilya Tsiareshka                                    |       97 |
 | 2012BUBE01 | Reto Bubendorf                                     |       94 |
 | 2012DELI01 | Ryan DeLine                                        |       91 |
@@ -984,8 +985,8 @@
 | 2012MCMI01 | Matthew McMillan                                   |       46 |
 | 2012MENE01 | Diego Meneghetti                                   |       46 |
 | 2012CORO01 | Giovanny Coronado                                  |       46 |
-| 2012CANT02 | Simone Cantarelli                                  |       46 |
 | 2012LIUY03 | Yiwei Liu (刘伊玮)                                 |       46 |
+| 2012CANT02 | Simone Cantarelli                                  |       46 |
 | 2012SANT12 | Rafael Rodriguez Santana                           |       45 |
 | 2012PETE03 | Marcel Peters                                      |       45 |
 | 2012STRA02 | Roman Strakhov                                     |       45 |
@@ -1014,8 +1015,8 @@
 | 2012YOSH02 | Taro Yoshioka (吉岡太郎)                           |       37 |
 | 2012CARL03 | Alexandre Carlier                                  |       36 |
 | 2012HIRA01 | Tomoyuki Hiraide (平出智之)                        |       36 |
-| 2012BRED01 | Ulrik Bredland                                     |       36 |
 | 2012MATS02 | Yoshio Matsumoto (松本嘉夫)                        |       36 |
+| 2012BRED01 | Ulrik Bredland                                     |       36 |
 | 2012MAIA01 | João Guilherme Barejan Maiale                      |       36 |
 | 2012SLIZ01 | Mateusz Śliż                                       |       35 |
 | 2012LUTC01 | Ricardo Lutchman                                   |       35 |
@@ -1025,8 +1026,8 @@
 | 2012CAPA01 | Mihai Căpăţinescu                                  |       34 |
 | 2012RONK01 | Tomi Ronkainen                                     |       33 |
 | 2012KRIS04 | Velidi Venkata Jagan Mohana Murali Krishna         |       33 |
-| 2012LIAO03 | Zi-Xian Liao (廖子賢)                              |       33 |
 | 2012KABI01 | Shubhayan Kabir                                    |       33 |
+| 2012LIAO03 | Zi-Xian Liao (廖子賢)                              |       33 |
 | 2012LIIH01 | I-Hsun Li (李奕勳)                                 |       33 |
 | 2012NGUY08 | David Nguyen                                       |       33 |
 | 2012IVAN03 | Fyodor Ivanov                                      |       32 |
@@ -1040,7 +1041,7 @@
 ## 2013
 
 | personId   | personName                                          | numComps |
-+------------+-----------------------------------------------------+----------+
+|------------|-----------------------------------------------------|----------|
 | 2013FENG02 | Zijia Feng (冯子甲)                                 |       88 |
 | 2013KLEI03 | Livia Kleiner                                       |       77 |
 | 2013LINK01 | Kaijun Lin (林恺俊)                                 |       67 |
@@ -1117,16 +1118,16 @@
 | 2013MALI03 | Szymon Malinowski                                   |       34 |
 | 2013VEDE01 | Andrii Vedenov (Андрій Веденьов)                    |       34 |
 | 2013GOOD01 | Daniel Goodman                                      |       34 |
-| 2013ANDE04 | Rasmus Andersson                                    |       34 |
 | 2013SAVA01 | Harry Savage                                        |       34 |
+| 2013ANDE04 | Rasmus Andersson                                    |       34 |
 | 2013SAWA01 | Aneesh Sawant                                       |       33 |
 | 2013EREL01 | Zolboo Erelkhegbaatar                               |       33 |
 | 2013SANT13 | Sergio Torrijos Santano                             |       33 |
 | 2013VALL03 | Thomas Valles                                       |       33 |
-| 2013ZHEN02 | Jinhao Zheng (郑金昊)                               |       33 |
 | 2013GHOD01 | Abhijeet Ghodgaonkar                                |       33 |
-| 2013HOMM02 | Ankush Hommerich-Dutt                               |       33 |
+| 2013ZHEN02 | Jinhao Zheng (郑金昊)                               |       33 |
 | 2013BALI01 | Tanzer Balimtas                                     |       33 |
+| 2013HOMM02 | Ankush Hommerich-Dutt                               |       33 |
 | 2013LITV02 | Kirill Litvinov                                     |       33 |
 | 2013LOYK01 | Nikita Loika                                        |       32 |
 | 2013GUYU01 | Yu Gu (谷雨)                                        |       32 |
@@ -1145,7 +1146,7 @@
 ## 2014
 
 | personId   | personName                                       | numComps |
-+------------+--------------------------------------------------+----------+
+|------------|--------------------------------------------------|----------|
 | 2014PETE03 | Tobias Peter                                     |       79 |
 | 2014GOSL01 | Raymond Goslow                                   |       72 |
 | 2014BOYA01 | Mark Boyanowski                                  |       64 |
@@ -1194,8 +1195,8 @@
 | 2014REID01 | Connor Reid                                      |       35 |
 | 2014DRAP01 | Jeffrey Draper                                   |       35 |
 | 2014KIMJ02 | Jungwoo Kim                                      |       35 |
-| 2014CHRI04 | Benjamin Christie                                |       35 |
 | 2014RAJE03 | Anish Rajesh                                     |       35 |
+| 2014CHRI04 | Benjamin Christie                                |       35 |
 | 2014MATH02 | Carsten Matheus                                  |       35 |
 | 2014JOHN05 | Neil Johnson                                     |       35 |
 | 2014ANDE01 | Quinten Andelhofs                                |       34 |
@@ -1244,13 +1245,13 @@
 | 2014SRIK03 | Vishantak Srikrishna                             |       27 |
 | 2014RAPO01 | Tommaso Raposio                                  |       27 |
 | 2014GRAD02 | Wesley Grady                                     |       27 |
-| 2014HELL01 | Hampus Hellqvist                                 |       26 |
 | 2014ZHAN01 | Angelo Zhang                                     |       26 |
+| 2014HELL01 | Hampus Hellqvist                                 |       26 |
 
 ## 2015
 
 | personId   | personName                                             | numComps |
-+------------+--------------------------------------------------------+----------+
+|------------|--------------------------------------------------------|----------|
 | 2015ROSE01 | Daniel Rose-Levine                                     |       70 |
 | 2015BUAT01 | Witali Bułatow                                         |       54 |
 | 2015GALI02 | Luke Galioto                                           |       45 |
@@ -1288,8 +1289,8 @@
 | 2015LIZH02 | Zhijun Li (李芷筠)                                     |       32 |
 | 2015WIDD01 | Owen Widdis                                            |       32 |
 | 2015TAKA06 | Taiga Takaoka (高岡汰虎)                               |       31 |
-| 2015WANG09 | Kai-Wen Wang (王楷文)                                  |       31 |
 | 2015MOGY01 | Hunor Mogyorósi                                        |       31 |
+| 2015WANG09 | Kai-Wen Wang (王楷文)                                  |       31 |
 | 2015GREI01 | Daniel Greigg                                          |       31 |
 | 2015KAME02 | Marcus Kamen                                           |       31 |
 | 2015KUCA01 | Carter Kucala                                          |       30 |
@@ -1302,8 +1303,8 @@
 | 2015CLEM03 | Pauline Clémenceau                                     |       30 |
 | 2015DASA02 | Aniket Das                                             |       30 |
 | 2015CHOK01 | Mohamed Ben Driss Chokri                               |       29 |
-| 2015SANC18 | José Antonio Navarro Sánchez                           |       29 |
 | 2015GORN01 | Dominik Górny                                          |       29 |
+| 2015SANC18 | José Antonio Navarro Sánchez                           |       29 |
 | 2015MEDE01 | Felipe Medel                                           |       29 |
 | 2015MAJE01 | Marek Majerik                                          |       29 |
 | 2015ANTO04 | Manuel Prieto de Antón                                 |       29 |
@@ -1319,8 +1320,8 @@
 | 2015NICH04 | Andy Nicholls                                          |       28 |
 | 2015MALI01 | Damian Malinowski                                      |       27 |
 | 2015CARV06 | Iuri Grangeiro Carvalho                                |       27 |
-| 2015NEWH01 | Will Newhoff                                           |       27 |
 | 2015CHAK01 | Snehashish Chakravarti                                 |       27 |
+| 2015NEWH01 | Will Newhoff                                           |       27 |
 | 2015MACD03 | James Macdiarmid                                       |       27 |
 | 2015KATY01 | Alexander Katyukov                                     |       26 |
 | 2015DELA03 | Karla Gem Gapud Delavente                              |       26 |
@@ -1355,7 +1356,7 @@
 ## 2016
 
 | personId   | personName                       | numComps |
-+------------+----------------------------------+----------+
+|------------|----------------------------------|----------|
 | 2016FANG01 | Shenghai Fang (方胜海)           |       48 |
 | 2016KOLA02 | Tymon Kolasiński                 |       43 |
 | 2016SORI04 | Luigi Soriano                    |       41 |
@@ -1395,19 +1396,19 @@
 | 2016LYHO01 | Theo Lyholm                      |       24 |
 | 2016MANN01 | Evan Mann                        |       23 |
 | 2016PYWI01 | Wilfrid Py                       |       23 |
-| 2016PHUN02 | Lauren Phung                     |       23 |
 | 2016GUTI23 | Daniel Gutierrez                 |       23 |
+| 2016PHUN02 | Lauren Phung                     |       23 |
 | 2016DERO04 | Fabio De'Rose                    |       23 |
 | 2016COTE01 | Rayhan Cote                      |       23 |
 | 2016ZHOU13 | Xinwei Zhou (周欣伟)             |       23 |
 | 2016THOR08 | Elvin Thorsen                    |       23 |
-| 2016SATO01 | Caio Hideaki Sato                |       23 |
 | 2016MAGT01 | Alexis Margaret Magtibay         |       23 |
+| 2016SATO01 | Caio Hideaki Sato                |       23 |
 | 2016SIMK01 | Samuel Simko                     |       23 |
 | 2016SMUL01 | Mika Smulders                    |       23 |
 | 2016KAMA04 | AJ Kamal                         |       23 |
-| 2016LEEM02 | Matt Lee                         |       23 |
 | 2016XIZH01 | Zhifang Xi (席之枋)              |       23 |
+| 2016LEEM02 | Matt Lee                         |       23 |
 | 2016KRUE01 | Ivan Krueger                     |       22 |
 | 2016CHEN45 | Zidong Cheng (程紫东)            |       22 |
 | 2016KIEB01 | Midas Kiebert                    |       22 |
@@ -1440,12 +1441,12 @@
 | 2016MULL04 | Daniel Mullen                    |       20 |
 | 2016FISC02 | Patrick Fischer                  |       20 |
 | 2016PASK01 | Aaron Paskow                     |       20 |
-| 2016MASI01 | Marcos Masini                    |       20 |
 | 2016RIDL01 | Ben Ridley                       |       20 |
+| 2016MASI01 | Marcos Masini                    |       20 |
 | 2016DABR02 | Marek Dąbrowski                  |       20 |
 | 2016JOHN30 | Keenan Johnson                   |       20 |
-| 2016BECK07 | Brayden Beckman                  |       19 |
 | 2016GROS06 | Christophe Grosjean              |       19 |
+| 2016BECK07 | Brayden Beckman                  |       19 |
 | 2016SMOL01 | Anton Smolyanyy                  |       19 |
 | 2016GRAF01 | Lina Graf                        |       19 |
 | 2016SENN01 | Fabian Senn                      |       19 |
@@ -1460,21 +1461,21 @@
 ## 2017
 
 | personId   | personName                         | numComps |
-+------------+------------------------------------+----------+
+|------------|------------------------------------|----------|
 | 2017HUMM01 | Mitchell Hum                       |       23 |
 | 2017GOLD01 | Daniel Goldstein                   |       22 |
 | 2017GARR05 | Luke Garrett                       |       21 |
 | 2017CHEN36 | Xinyun Chen (陈新运)               |       20 |
 | 2017OGUR02 | Yoji Ogura (小倉洋二)              |       19 |
 | 2017PRES02 | Peter Preston                      |       19 |
-| 2017LUIS01 | Reuben San Luis                    |       18 |
 | 2017MINA04 | Hannah Minas                       |       18 |
+| 2017LUIS01 | Reuben San Luis                    |       18 |
 | 2017ZHAN19 | Lu Zhang (张陆)                    |       18 |
 | 2017SUDA01 | Pradeep Sudakar                    |       17 |
 | 2017WHIT01 | Derek White                        |       17 |
+| 2017PETE04 | Tripp Peters                       |       16 |
 | 2017BISA01 | Landyn Bisard                      |       16 |
 | 2017BALS01 | Yannick Balsiger                   |       16 |
-| 2017PETE04 | Tripp Peters                       |       16 |
 | 2017ISSL01 | Beni Issler                        |       16 |
 | 2017ZAGA01 | Ignacy Zagajewski                  |       15 |
 | 2017STAR04 | Silas Starling                     |       15 |
@@ -1505,22 +1506,22 @@
 | 2017VLAD02 | Turcanu Vlad                       |       13 |
 | 2017BHAT02 | Atharva R. Bhat                    |       13 |
 | 2017NITE01 | Vaishnav Nitesh                    |       13 |
-| 2017KIMM01 | Asher Kim-Magierek                 |       12 |
 | 2017HEIS02 | Dominic Heising                    |       12 |
-| 2017CHEN05 | Maksim Chen                        |       12 |
+| 2017KIMM01 | Asher Kim-Magierek                 |       12 |
 | 2017SOLD01 | Daniela Medalit Cornejo Soldevilla |       12 |
+| 2017CHEN05 | Maksim Chen                        |       12 |
 | 2017YANG62 | Marco Yang                         |       12 |
-| 2017WUZI01 | Ziyue Wu (吴子玥)                  |       12 |
 | 2017AZMA02 | Shawn Azman                        |       12 |
 | 2017EREZ01 | Ethan Erez                         |       12 |
+| 2017WUZI01 | Ziyue Wu (吴子玥)                  |       12 |
 | 2017STRA03 | Kyle Van Straaten                  |       12 |
+| 2017MCGO02 | Scott McGowan                      |       12 |
 | 2017GATE01 | Cooper Gates                       |       12 |
 | 2017ISSL02 | Daniel Issler                      |       12 |
-| 2017MCGO02 | Scott McGowan                      |       12 |
 | 2017CHEN95 | Chen Ching Cheung (陳政璋)         |       12 |
 | 2017YUZH03 | Yu Zhou (周煜)                     |       12 |
-| 2017MAVS01 | Sandra Mavsar                      |       12 |
 | 2017GUER07 | Marta Guerra                       |       12 |
+| 2017MAVS01 | Sandra Mavsar                      |       12 |
 | 2017KONG08 | Derek Kong                         |       12 |
 | 2017WANY29 | Yifan Wang (王逸帆)                |       12 |
 | 2017SETH03 | Sameer Sethuram                    |       12 |
@@ -1529,43 +1530,43 @@
 | 2017NEFK01 | Yannick Nefkens                    |       12 |
 | 2017YANG64 | Shawn Yang                         |       11 |
 | 2017ASTR01 | Vicente Astroza                    |       11 |
-| 2017RAND06 | Ari Randers-Pehrson                |       11 |
 | 2017KUEP01 | Alex Kuepper                       |       11 |
+| 2017RAND06 | Ari Randers-Pehrson                |       11 |
 | 2017YARY02 | Irina Yarygina                     |       11 |
 | 2017STAL01 | John Staley                        |       11 |
 | 2017BEEM01 | Seb van den Beemt                  |       11 |
-| 2017WANG50 | Yujiang Wang (王玉江)              |       11 |
 | 2017KLAU01 | William Klauer                     |       11 |
+| 2017WANG50 | Yujiang Wang (王玉江)              |       11 |
 | 2017SCHO02 | Nicholas Schollard                 |       11 |
-| 2017GUND01 | Alex Gundrum                       |       11 |
 | 2017NORR01 | Timo Norrkniivilä                  |       11 |
+| 2017GUND01 | Alex Gundrum                       |       11 |
 | 2017STOS01 | Livio Stössel                      |       11 |
-| 2017CHAV07 | Fernando José Muchuch Chavez       |       11 |
-| 2017PARK05 | DongSu Park (박동수)               |       11 |
 | 2017LIUC11 | Chunhao Liu (柳春浩)               |       11 |
+| 2017PARK05 | DongSu Park (박동수)               |       11 |
+| 2017CHAV07 | Fernando José Muchuch Chavez       |       11 |
 | 2017STRO02 | Matei Alexandru Stroescu           |       11 |
 | 2017WURY01 | Ryan Wu                            |       11 |
 | 2017BRAS01 | Luca Brasini                       |       11 |
 | 2017BROW08 | Kayla Brown                        |       11 |
 | 2017WALL02 | Arthur Wallem                      |       11 |
-| 2017LOPE31 | Catalina Herrera López             |       11 |
 | 2017MILL07 | Zeke Miller                        |       11 |
-| 2017ZHEN01 | Youbin Zheng (郑友彬)              |       11 |
+| 2017LOPE31 | Catalina Herrera López             |       11 |
 | 2017RUBI01 | Levi Rubin                         |       11 |
+| 2017ZHEN01 | Youbin Zheng (郑友彬)              |       11 |
 | 2017OMIY02 | Rafael Yukio Omiya                 |       11 |
 | 2017KIMJ03 | Chandler Kim                       |       11 |
 | 2017NOZA01 | Yuito Nozaki (野崎結人)            |       11 |
 | 2017RAJA08 | Isaac Rajagopal                    |       11 |
 | 2017YANG36 | Guohui Yan (闫国惠)                |       11 |
-| 2017SKRZ01 | Patryk Skrzyński                   |       11 |
 | 2017ONUS01 | Maxim Onushkin                     |       11 |
+| 2017SKRZ01 | Patryk Skrzyński                   |       11 |
 | 2017MAZH04 | Zhiyuan Ma (马之元)                |       11 |
 | 2017KOJA01 | Jandell Ryan Ko                    |       11 |
 
 ## 2018
 
 | personId   | personName                      | numComps |
-+------------+---------------------------------+----------+
+|------------|---------------------------------|----------|
 | 2018SOMA01 | Sujith Somayaji                 |        7 |
 | 2018RENN01 | Sussan Renny                    |        7 |
 | 2018TONG03 | Samuel Tong                     |        7 |
@@ -1583,8 +1584,8 @@
 | 2018RIVE03 | Kurt Rivera                     |        5 |
 | 2018ZHEN04 | Michael Zheng                   |        5 |
 | 2018BERG03 | Owen Berg                       |        5 |
-| 2018RAMA03 | Nayan Ramam                     |        5 |
 | 2018WOOD02 | Austin Wood                     |        5 |
+| 2018RAMA03 | Nayan Ramam                     |        5 |
 | 2018ORRR01 | Riley Orr                       |        5 |
 | 2018AMAD01 | Sebastian Amador                |        5 |
 | 2018VELD01 | Rodney van den Velden           |        5 |
@@ -1592,55 +1593,55 @@
 | 2018DARD01 | Ivan Borgia Dardi               |        5 |
 | 2018BROW07 | Grant Brown                     |        5 |
 | 2018WARY01 | Wiktoria Waryszak               |        5 |
-| 2018TAIS01 | Samantha Tai                    |        5 |
 | 2018KIRA02 | Shriram Kiran                   |        5 |
+| 2018TAIS01 | Samantha Tai                    |        5 |
 | 2018GEOR01 | Nikhil George                   |        5 |
 | 2018ONOD01 | Derek Ono                       |        5 |
 | 2018ODOM01 | Mateus Odom                     |        5 |
 | 2018GLAD03 | Trevor Gladstone                |        5 |
 | 2018SOUT01 | Ian Southa                      |        5 |
 | 2018ROHD01 | Cormac Rohda                    |        5 |
-| 2018ZEIT01 | Ronan Zeitler                   |        5 |
 | 2018GROO01 | William Grooms                  |        5 |
-| 2018WANB01 | Bowen Wan (万博文)              |        5 |
+| 2018ZEIT01 | Ronan Zeitler                   |        5 |
 | 2018POPO02 | Nathan Popov                    |        5 |
+| 2018WANB01 | Bowen Wan (万博文)              |        5 |
 | 2018JONE02 | Roland Jones                    |        5 |
 | 2018FORD02 | Dawson Ford                     |        5 |
-| 2018KWAK01 | Kian Kwa                        |        4 |
 | 2018SIRO01 | Rajha Sirokshan                 |        4 |
 | 2018YANG10 | Eric Yang                       |        4 |
+| 2018KWAK01 | Kian Kwa                        |        4 |
 | 2018SANC03 | Angel Armando Jaime Sánchez     |        4 |
 | 2018SKEL01 | Patrick Skelley                 |        4 |
 | 2018LINM01 | Maxim Boyan Lin                 |        4 |
-| 2018LAMB08 | Hailey Lambert                  |        4 |
-| 2018AURI01 | James Auriemma                  |        4 |
 | 2018NEMI02 | Karina Nemirovski               |        4 |
+| 2018AURI01 | James Auriemma                  |        4 |
+| 2018LAMB08 | Hailey Lambert                  |        4 |
 | 2018HUTC02 | Jacob Hutchings                 |        4 |
 | 2018ROCK01 | Wendy Rock                      |        4 |
 | 2018TATE01 | Caleb Tate                      |        4 |
-| 2018CATE01 | Sem ten Cate                    |        4 |
-| 2018YAMA01 | Masaharu Yamaoka (山岡正治)     |        4 |
 | 2018GANT01 | Jack Vernon Gentile             |        4 |
+| 2018YAMA01 | Masaharu Yamaoka (山岡正治)     |        4 |
+| 2018CATE01 | Sem ten Cate                    |        4 |
 | 2018RODR22 | Matthew Rodriguez               |        4 |
-| 2018HUAN05 | Peter Huang                     |        4 |
 | 2018FAIR01 | Maxwell Fairbanks               |        4 |
-| 2018LIMA03 | Ricardo Gomes de Lima           |        4 |
-| 2018VASW01 | Aditya Vaswani                  |        4 |
+| 2018HUAN05 | Peter Huang                     |        4 |
 | 2018LAMU01 | Franck Lamure                   |        4 |
+| 2018JOHN14 | Phillip Johnson                 |        4 |
+| 2018VASW01 | Aditya Vaswani                  |        4 |
 | 2018MAXW02 | Ava Maxwell                     |        4 |
 | 2018METK01 | Shreyas Metkar                  |        4 |
-| 2018JOHN14 | Phillip Johnson                 |        4 |
-| 2018GLAD02 | Joshua Gladstone                |        4 |
-| 2018AUBR01 | Étienne Aubry                   |        4 |
+| 2018LIMA03 | Ricardo Gomes de Lima           |        4 |
 | 2018HERM01 | Carter Herman                   |        4 |
-| 2018PHEL01 | Grant Phelps                    |        4 |
-| 2018KASA01 | Lui Kasahara (笠原琉位)         |        4 |
+| 2018AUBR01 | Étienne Aubry                   |        4 |
+| 2018GLAD02 | Joshua Gladstone                |        4 |
 | 2018KARA04 | Toni Petrov Karamanliev         |        4 |
+| 2018KASA01 | Lui Kasahara (笠原琉位)         |        4 |
+| 2018PHEL01 | Grant Phelps                    |        4 |
+| 2018KANN01 | Iniya Kannan                    |        4 |
 | 2018HONG08 | Kyle Hong                       |        4 |
+| 2018KUSK01 | Evan Kuske                      |        4 |
 | 2018TANG01 | Darren Tang                     |        4 |
 | 2018THOM03 | Jake Thomas                     |        4 |
-| 2018KANN01 | Iniya Kannan                    |        4 |
-| 2018KUSK01 | Evan Kuske                      |        4 |
 | 2018ANIS03 | Madhav M. Anish                 |        4 |
 | 2018AKON01 | Nathan Akonnor                  |        4 |
 | 2018CHOI05 | Camilo Choi                     |        4 |
@@ -1648,21 +1649,21 @@
 | 2018JENN02 | Matthew Jennings                |        4 |
 | 2018KELL01 | Cole Kelley                     |        4 |
 | 2018VADA01 | Alex Mateo Vadan                |        4 |
-| 2018ANGE01 | Karl Matthew Angeles            |        4 |
-| 2018BINU01 | Prithvi Narayan Binu            |        4 |
 | 2018SISL01 | Julian P. Sisley                |        4 |
 | 2018CULK01 | Matthew Culkin                  |        4 |
-| 2018SANT09 | Sucheth Cholayil Santhosh       |        4 |
+| 2018ANGE01 | Karl Matthew Angeles            |        4 |
+| 2018BINU01 | Prithvi Narayan Binu            |        4 |
 | 2018BROE01 | Siem Broeder                    |        4 |
-| 2018BASH01 | Jackson Bashaw                  |        4 |
 | 2018PLET01 | Aidan Pletch                    |        4 |
+| 2018BASH01 | Jackson Bashaw                  |        4 |
+| 2018SANT09 | Sucheth Cholayil Santhosh       |        4 |
 | 2018STEP01 | Brandon Stephens                |        4 |
 | 2018MULL01 | Ryan Mulligan                   |        4 |
 | 2018LITI01 | Toby Jarred Belen Litiatco      |        4 |
 | 2018MART24 | Alex Martens                    |        4 |
-| 2018CALL01 | Camila Andrea Crespo Calle      |        4 |
 | 2018SUCH03 | Chaorui Su (宿晁瑞)             |        4 |
+| 2018CALL01 | Camila Andrea Crespo Calle      |        4 |
 | 2018RELV01 | Pablo Manoel Pereira Relvas     |        4 |
-| 2018MOOR01 | Jackson Moore                   |        4 |
 | 2018LEYE01 | Nicholas Leyesa                 |        4 |
+| 2018MOOR01 | Jackson Moore                   |        4 |
 | 2018KAJI01 | Maximus Kajiwara                |        4 |
